@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Daiki
+## Hi there 👋 I'm Daiki 🤖
 
 <!--
 **daikidevelops/daikidevelops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
